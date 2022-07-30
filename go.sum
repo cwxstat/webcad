@@ -1,0 +1,4 @@
+github.com/mchirico/tlib v0.0.0-20200127175021-67c50b75d102 h1:Nmc8NPoG5Rfh749cWxtGPfQisIu2SzF1WnRc5t9qVoY=
+github.com/mchirico/tlib v0.0.0-20200127175021-67c50b75d102/go.mod h1:Xam8M9UtKbSyzTD6KTUT9wRjcJNUyZ8HhvT/3mRXEkM=
+golang.org/x/net v0.0.0-20220728211354-c7608f3a8462 h1:UreQrH7DbFXSi9ZFox6FNT3WBooWmdANpU+IfkT1T4I=
+golang.org/x/net v0.0.0-20220728211354-c7608f3a8462/go.mod h1:YDH+HFinaLZZlnHAfSS6ZXJJ9M9t4Dl22yv3iI2vPwk=
